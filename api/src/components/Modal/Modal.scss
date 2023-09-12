@@ -1,0 +1,35 @@
+.container {
+
+    label {
+        font-size: 20px;
+        margin-bottom: 2%;
+    }
+}
+
+.modal-body {
+    background-color: black;
+    border-radius: 5px;
+
+    h1 {
+        color: white;
+        font-weight: bold;
+    }
+
+    .form-check {
+        padding-left: 0;
+    }
+
+    .modal-button {
+        padding: 10px;
+        text-align: end;
+
+        button {
+            width: 100px !important;
+        }
+    }
+}
+
+.modal-title {
+    text-align: center;
+    padding: 10px;
+}
